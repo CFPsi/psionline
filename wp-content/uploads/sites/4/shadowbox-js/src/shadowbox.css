@@ -9,7 +9,7 @@
 #sb-body img{border:none;}
 #sb-loading{position:relative;height:100%;}
 #sb-loading-inner{position:absolute;font-size:14px;line-height:24px;height:24px;top:50%;margin-top:-12px;width:100%;text-align:center;}
-#sb-loading-inner span{background:url(https://cfpsi.github.io/psionline/wp-content/uploads/sites/4/shadowbox-js/src/loading.gif) no-repeat;padding-left:34px;display:inline-block;}
+#sb-loading-inner span{background:url(https://psionline.cfp.org.br/wp-content/uploads/sites/4/shadowbox-js/src/loading.gif) no-repeat;padding-left:34px;display:inline-block;}
 #sb-body,#sb-loading{background-color:#060606;}
 #sb-title,#sb-info{position:relative;margin:0;padding:0;overflow:hidden;}
 #sb-title,#sb-title-inner{height:26px;line-height:26px;}
@@ -18,11 +18,11 @@
 #sb-info-inner{font-size:12px;}
 #sb-nav{float:right;height:16px;padding:2px 0;width:45%;}
 #sb-nav a{display:block;float:right;height:16px;width:16px;margin-left:3px;cursor:pointer;background-repeat:no-repeat;}
-#sb-nav-close{background-image:url(https://cfpsi.github.io/psionline/wp-content/uploads/sites/4/shadowbox-js/src/close.png);}
-#sb-nav-next{background-image:url(https://cfpsi.github.io/psionline/wp-content/uploads/sites/4/shadowbox-js/src/next.png);}
-#sb-nav-previous{background-image:url(https://cfpsi.github.io/psionline/wp-content/uploads/sites/4/shadowbox-js/src/previous.png);}
-#sb-nav-play{background-image:url(https://cfpsi.github.io/psionline/wp-content/uploads/sites/4/shadowbox-js/src/play.png);}
-#sb-nav-pause{background-image:url(https://cfpsi.github.io/psionline/wp-content/uploads/sites/4/shadowbox-js/src/pause.png);}
+#sb-nav-close{background-image:url(https://psionline.cfp.org.br/wp-content/uploads/sites/4/shadowbox-js/src/close.png);}
+#sb-nav-next{background-image:url(https://psionline.cfp.org.br/wp-content/uploads/sites/4/shadowbox-js/src/next.png);}
+#sb-nav-previous{background-image:url(https://psionline.cfp.org.br/wp-content/uploads/sites/4/shadowbox-js/src/previous.png);}
+#sb-nav-play{background-image:url(https://psionline.cfp.org.br/wp-content/uploads/sites/4/shadowbox-js/src/play.png);}
+#sb-nav-pause{background-image:url(https://psionline.cfp.org.br/wp-content/uploads/sites/4/shadowbox-js/src/pause.png);}
 #sb-counter{float:left;width:45%;}
 #sb-counter a{padding:0 4px 0 0;text-decoration:none;cursor:pointer;color:#fff;}
 #sb-counter a.sb-counter-current{text-decoration:underline;}

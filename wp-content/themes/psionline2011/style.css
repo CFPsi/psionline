@@ -28,7 +28,7 @@ img {
 }
 
 body {
-	background:#DAD407 url(https://cfpsi.github.io/psionline/wp-content/themes/psionline2011/images/fundo.gif) repeat center top fixed;
+	background:#DAD407 url(https://psionline.cfp.org.br/wp-content/themes/psionline2011/images/fundo.gif) repeat center top fixed;
 }
 
 table {
@@ -41,7 +41,7 @@ table {
 	min-height:750px;
 	margin:30px auto;
 	padding:10px;
-	background:url(https://cfpsi.github.io/psionline/wp-content/themes/psionline2011/images/fundoGeral.png) repeat-y center top;
+	background:url(https://psionline.cfp.org.br/wp-content/themes/psionline2011/images/fundoGeral.png) repeat-y center top;
 }
 
 /* IN�CIO DA FORMATA��O DO TOPO */
@@ -49,7 +49,7 @@ table {
 	height:160px;
 	width:620px;
 	padding:20px 30px 0 0;
-	background:url(https://cfpsi.github.io/psionline/wp-content/themes/psionline2011/images/divisorTopo.png) no-repeat right bottom;
+	background:url(https://psionline.cfp.org.br/wp-content/themes/psionline2011/images/divisorTopo.png) no-repeat right bottom;
 	float:left;
 	position:relative;
 }
@@ -68,7 +68,7 @@ table {
 	float:right;
 	overflow:hidden;
 	text-indent:-999px;
-	background:url(https://cfpsi.github.io/psionline/wp-content/themes/psionline2011/images/data.png) no-repeat center center;
+	background:url(https://psionline.cfp.org.br/wp-content/themes/psionline2011/images/data.png) no-repeat center center;
 }
 
 #topo #btnRedeSocial {
@@ -106,7 +106,7 @@ table {
 	overflow:hidden;
 	text-indent:-999px;
 	margin:10px 0 0 10px;
-	background:url(https://cfpsi.github.io/psionline/wp-content/themes/psionline2011/images/logo.png) no-repeat;
+	background:url(https://psionline.cfp.org.br/wp-content/themes/psionline2011/images/logo.png) no-repeat;
 }
 
 #barraLateral .widgettitle {
@@ -128,19 +128,19 @@ table {
 
 #barraLateral #menu-navegacao li a:hover,
 #barraLateral #menu-navegacao li a[rel]:hover {
-	background:url(https://cfpsi.github.io/psionline/wp-content/themes/psionline2011/images/sobreNavegacao.png) no-repeat;
+	background:url(https://psionline.cfp.org.br/wp-content/themes/psionline2011/images/sobreNavegacao.png) no-repeat;
 	color:#666;	
 	padding:15px 0 15px 20px;
 }
 
 #barraLateral .menu li.current-menu-item a {
-    background:url(https://cfpsi.github.io/psionline/wp-content/themes/psionline2011/images/sobreNavegacao.png) no-repeat !important;
+    background:url(https://psionline.cfp.org.br/wp-content/themes/psionline2011/images/sobreNavegacao.png) no-repeat !important;
 	color:#666 !important;	
 	padding:15px 0 15px 20px !important;
 }
 
 #barraLateral #menu-navegacao li a[rel] {
-	background:url(https://cfpsi.github.io/psionline/wp-content/themes/psionline2011/images/iconExterno.gif) no-repeat 110px 10px;
+	background:url(https://psionline.cfp.org.br/wp-content/themes/psionline2011/images/iconExterno.gif) no-repeat 110px 10px;
 }
 
 #barraLateral img {
@@ -187,7 +187,7 @@ table {
 }
 
 #conteudo a[target=_blank] {
-	background:url(https://cfpsi.github.io/psionline/wp-content/themes/psionline2011/images/iconExterno.gif) no-repeat right top;
+	background:url(https://psionline.cfp.org.br/wp-content/themes/psionline2011/images/iconExterno.gif) no-repeat right top;
 	padding:0 12px 0 0;
 }
 
