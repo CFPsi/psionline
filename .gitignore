@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*.swp
+*~
+
+# VS Code
+.vscode/
+
+# Node / Front-end (opcional, caso use)
+node_modules/
+.npm/
+
+# Logs
+*.log
