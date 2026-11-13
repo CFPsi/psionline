@@ -299,7 +299,7 @@
   position: absolute;
   margin-left: -15px;
   margin-right: -15px;
-  background: url(/wp-content/plugins/subscribe-to-comments-reloaded/vendor/webui-popover/img/loading.gif) no-repeat;
+  background: url(https://cfpsi.github.io/psionline/wp-content/plugins/subscribe-to-comments-reloaded/vendor/webui-popover/img/loading.gif) no-repeat;
 }
 @-webkit-keyframes rotate {
   100% {
